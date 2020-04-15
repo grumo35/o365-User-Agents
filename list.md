@@ -38,4 +38,6 @@
 
 > onenotemodernsyncinboundreplicatorpcsensurefresh
 
+>OneDriveMpc-Transform_Thumbnail/1.0
 
+> Microsoft Office
